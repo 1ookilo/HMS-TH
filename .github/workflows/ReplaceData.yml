@@ -69,6 +69,7 @@ jobs:
           python src/u4pak.py pack -z Release/HMS_00-WindowsNoEditor_P.pak HMS_00  
       - name: Push changes
         run: |
+          git pull origin main
           git add Release/*
           commitMessage=$(date +'%m-%d')' Update Pack'
           git commit -m "$commitMessage"
