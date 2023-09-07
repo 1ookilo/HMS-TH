@@ -1,0 +1,76 @@
+name: ReplaceData
+on:
+  schedule:
+    - cron: '4 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  run_script_replace:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10.11
+
+    - name: Set up Git user
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'        
+    - name: Install pandas
+      run: |
+        pip install pandas
+
+    - name: Run patch.py
+      run: python src/insertcolum.py
+
+    - name: Run patch.py
+      run: python src/replaceTranslated.py
+
+    - name: Push changes
+      run: |        
+        if [ -n "$(git status --porcelain)" ]; then
+          git add .
+          commitMessage=$(date +'%m-%d')' Update Translated'
+          git commit -m "$commitMessage"
+          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/HMS-TH
+        else
+          echo "No changes in files. Skipping commit and push."
+        fi
+        
+    
+  run_script_pack:
+    needs: run_script_replace
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+  
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10.11
+      - name: Set up Git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
+      - name: Remove Pak
+        run: |
+          git rm Release/HMS_00-WindowsNoEditor_P.pak
+      - name: Commit Remove
+        run: |
+          git commit -m "Remove HMS_00-WindowsNoEditor_P.pak before repak"
+      - name: Pack
+        run: |
+          python src/u4pak.py pack -z Release/HMS_00-WindowsNoEditor_P.pak HMS_00  
+      - name: Push changes
+        run: |
+          git add Release/*
+          commitMessage=$(date +'%m-%d')' Update Pack'
+          git commit -m "$commitMessage"
+          git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/HMS-TH  
+       

@@ -1,0 +1,292 @@
+﻿# npc_dialogue_en.csv,col2
+# æ–‡æœ¬ç¼–å·,# æ­£æ–‡
+string,string
+id,text
+Murmum_10000_1,<MsgSectStyle>[Iâ€™ve acquired it. No need to review...]</>
+Murmum_10000_2,<MsgSectStyle>[Iâ€™ve mastered it. No need to review...]</>
+Murmum_10000_3,<MsgSectStyle>[Hey! I told you I donâ€™t need to review !]</>
+Murmum_10000_4,<MsgSectStyle>[Iâ€™ve acquired it. No need to review...]</>
+Murmum_10000_5,<MsgSectStyle>[Iâ€™ve learned this skill! ]</>
+Murmum_10007_1,[Nothing found...]
+Murmum_10008_1,Whatâ€™s this place? Anybody here? Hello? Hi? Oi â€”
+Murmum_10009_1,Letâ€™s spar once weâ€™ve restored our Vigor.
+Murmum_10010_1,The opponent is considering how to deal with you...thinking of the relations between you two and their attitude toward you...weighing the risks...
+Murmum_40000_1,Forbidden area! No entry for strangers!
+Murmum_50000_1,What are you looking at? Get out!
+Murmum_50001_1,You wanna join our sect? Impossible!
+Murmum_50002_1,Meet the entry requirements and you can become one of us!
+Murmum_50003_1,"Iâ€™ve reported to the sect leader. The honorable one,youâ€™ll receive the leaderâ€™s letter soon."
+Murmum_50004_1,Hum? Get up!
+Murmum_50005_1,Whoâ€™s hiding there? Come out!
+Murmum_50006_1,Hum? Whoâ€™s there! !
+Murmum_50007_1,Nice gear!
+Murmum_50008_1,This Skill is perfect for me!
+Murmum_50009_1,"Warrior,thank you for saving me!"
+Murmum_50013_1,Horses like eating grass. Monkeys like eating pinecones or plums. Martens and snakes like eating meat and eggs. Eagles like eating meat.
+Murmum_50014_1,Requires an area with a Kungfu Contest. I canâ€™t wait any longer. Is there anything that a martial arts champion canâ€™t do? Hahahaha!
+Murmum_50015_1,"Thereâ€™s a Bulletin Board at the Mountain Gate of every sect. You can take a look,see if you meet their Entry Requirements. But Iâ€™m not sure whether youâ€™re worthy or not."
+Murmum_50016_1,"You can use your Chi to heal minor injury. If the injury is too severe,you can go to clinic for healing. But Clinics often charge a high fee. .."
+Murmum_50017_1,"Trade,complete commissions,or work at all kinds of stores. But doing illegal business always earns more. Ahaha,just like taking supplements will make you stronger!"
+Murmum_50018_1,"Hehe,no one is invincible in this world. You can improve your power by collecting more skills,Inner Kungfu,Abilities,and Gears. But remember,only the fitting combination means the true power."
+Murmum_50019_1,I heard that you can acquire advanced Qinggong at the Eagle Hunt Platform and Mirror Lake Stonewoods.
+Murmum_50020_1,Give everything you owe me now!
+Murmum_50021_1,"Youâ€™re not too stupid,huh? Now get out! Donâ€™t mess with me! !"
+Murmum_50022_1,That was your lesson today!
+Murmum_50023_1,"Sorry,I didnâ€™t mean to do this! Letâ€™s forget this,shall we?"
+Murmum_50024_1,"I'm tired today, come back tomorrow for advice"
+Murmum_50025_1,"I'm tired today, first integrate what I just learned, and teach me tomorrow."
+Murmum_50026_1,"(...Don't move around... Hold on for a while, the gate of heaven will open!!!)"
+Murmum_60000_1,"Not bad,I bet you can unify the martial arts world."
+Murmum_60001_1,"Haha,I just invented it. Didnâ€™t expect there would be a side effect. Iâ€™ll find you when I fix this."
+Murmum_60002_1,â€¦â€¦
+Murmum_60003_1,Humph! Donâ€™t say I didnâ€™t warn you!
+Murmum_60004_1,"Good day,sir! May you live a long and healthy life!"
+Murmum_60005_1,Iâ€™m too kind to see children poorer than me...
+Murmum_60006_1,You made me cry! Time to say goodbye!
+Murmum_60007_1,Thanks Bodhisattva!!
+Murmum_60008_1,The cold wind is howling. The white snow is falling...
+Murmum_60009_1,How did I meet a blind person...
+Murmum_60010_1,Two healthy legs are way more important! Does my wisdom dwarf yours? Ahahaha!
+Murmum_60011_1,"Even the most powerful one can be hurt by gossips and backstabbing,right? ?"
+Murmum_60012_1,"A man of morality values righteousness,while the despicable eye silver and gold. The people who are merely profit-driven will eventually turn against you."
+Murmum_60013_1,Weâ€™re two of the same kind! !
+Murmum_60014_1,"This is what we call love,ahaha!"
+Murmum_60015_1,"I made 38 couples get married! I did a quite good job,didnâ€™t I?"
+Murmum_60016_1,â€¦â€¦
+Murmum_60017_1,"Thank you for saving me! Here is a pill handed down from our ancestors. Please take it,warrior."
+Murmum_60018_1,My leg is broken! Give me 1000 coins! Or Iâ€™ll find the seniors and accuse you of bullying me! !!
+Murmum_60019_1,â€¦â€¦
+Murmum_60020_1,"Ah,the business isnâ€™t going well these days..."
+Murmum_60021_1,Youâ€™re seriously ill. I suggest you go to the Clinic at [Flora Valley] later on. Here is a [Marrow Refining Pill]. It can help you heal some of the ailments!
+Murmum_60022_1,"Oh,I thought youâ€™re a freshman."
+Murmum_60023_1,"Haha,youâ€™re not stupid,huh? Bye."
+Murmum_60024_1,I must teach you a lesson! !
+Murmum_60025_1,"Good! From this day on,we resolve to band together to face whatever lies ahead!"
+Murmum_60026_1,Humph! Donâ€™t say I didnâ€™t warn you!
+Murmum_60027_1,Nice!
+Murmum_60028_1,Humph!
+Murmum_60029_1,Put this on. You need to keep warm. You canâ€™t catch a cold in this state.
+Murmum_60030_1,You ask for this. Goodbye and never see you again.
+Murmum_60031_1,Build the residence to shelter yourself from the cold and restore Vigor in it!
+Murmum_60032_1,"Having a hot spring bath,taking a sip of tea at the teahouse,or listening to melodies at the Music House will cheer you up!"
+Murmum_60033_1,"Really? Many thanks! Ahaha,I promise Iâ€™ll share it with you when I master it. !!"
+Murmum_60034_1,Itâ€™s said the skill in this manual is the most powerful one in this world. Donâ€™t you want to have a look at it? !
+Murmum_60035_1,That stone lies on the Dragonhead in Longting. Find a way to get there on your own!
+Murmum_60036_1,"Believe it or not,itâ€™s up to you!"
+Murmum_60037_1,"Here,here,let me mark a location for you. Go look over there."
+Murmum_60038_1,Is there anyone who isnâ€™t interested in treasure chest? !
+Murmum_60039_1,Interact with others and click [Skills] to view.
+Murmum_60040_1,Bye!
+Murmum_60041_1,I marked a location for you. Go have a look.
+Murmum_60042_1,I bumped into a pervert?
+Murmum_61000_1,The {0} you taught is really amazing. I have benefited a lot and am endlessly grateful!
+Murmum_61000_2,"Actually passed me {0}. In the future, I must repay your kindness!"
+Murmum_61000_3,"It all depends on your guidance {0}. If it weren't for you, I would still be confused there."
+Murmum_61000_4,It turned out to be {0}! I will practice hard on this martial art and I am endlessly grateful!!!
+Murmum_61000_5,It turned out to be {0}! You opened my eyes and I really don't know how to express my thanks!
+Murmum_61001_1,"Practice hard on this {0}. In an emergency, it will surely help you turn danger into safety!!!"
+Murmum_61001_2,"Although the secrets are good, they require diligent practice to see results. Don't be vain!"
+Murmum_61001_3,"Although the martial arts are superior, the will cannot be weak. Be sure to practice diligently and never be arrogant!"
+Murmum_61001_4,The mastery of the secrets lies only in diligence. Remember to study hard and practice hard to achieve success!
+Murmum_61001_5,"Although the secrets are wonderful, they cannot be achieved without diligent practice. Remember, diligent practice will show results!"
+Murmum_61003_1,"{0}, please stay! I have something to ask!!!"
+Murmum_61003_2,"{0}, wait! I have something to tell you!"
+Murmum_61003_3,"{0}, hold on, we have something important to discuss!"
+Murmum_61003_4,"{0}, don't go, let me explain my purpose!"
+Murmum_61003_5,"{0}, please stop, I have something urgent to tell you!"
+Murmum_61004_1,"As evidenced by heaven and earth, in this life, I only love you!"
+Murmum_61004_2,"Deep affection is not long-lived, but with you it is enough. I promise to live and die with you, till we both have white hair!"
+Murmum_61004_3,"Love is as deep as the sea, and I will be with you in life and death, and my head will never change!!"
+Murmum_61004_4,"Heaven and earth can learn from each other, you and I are old by the candlestick, friends of life and death!"
+Murmum_61004_5,"From now on, I am willing to grow old with you with white hair, never leaving, never abandoning!"
+Murmum_61005,"Câ€™mon,{0}! Follow me!"
+Murmum_61006_1,"[#1you], Where are you taking me?"
+Murmum_61006_2,"[#1you], Where the hell are you going?"
+Murmum_61006_3,"[#1you], Where the hell are you going? What's the matter?"
+Murmum_61006_4,"[#1you], How far are you going to go?"
+Murmum_61006_5,???
+Murmum_61007_1,Fire! The house is going to burn down!!!
+Murmum_61007_2,"It's on fire! Quick, put out the fire!!!"
+Murmum_61007_3,Where is the arsonist?! Want our lives?!!!
+Murmum_61007_4,"It's so lively, I feel sorry for this fire if I don't eat barbecue!!!"
+Murmum_61007_5,"Catch the arsonist, he must be burned to ashes. Let him know how many eyes the horse king has!!!"
+Murmum_61008_1,Cheers! !!
+Murmum_61008_2,Drink up!
+Murmum_61008_3,"Ah,thatâ€™s a good wine! !!"
+Murmum_61008_4,"A pot of wine, all worries disappear!"
+Murmum_61008_5,"Life is short, enjoy yourself in time! A pot of clear wine, a relaxed body!"
+Murmum_61008_6,"The world is cold and hot, only this pot of wine alone can truly relieve all kinds of worldly worries!"
+Murmum_61008_7,"The world is impermanent, enjoy yourself in time. I'll pour this cup of wine myself!"
+Murmum_61008_8,"Life is short, enjoy yourself in time. Don't lose your own joy!"
+Murmum_61008_9,"There are always unsatisfactory things in life. Enjoy yourself in time, experience the present, it's better than worrying about troubles all day long!"
+Murmum_61008_10,"Life is like a dream, hard work is hard to last long. Enjoy yourself in time, a cup of clear wine, release the worries of the world."
+Murmum_61008_11,"Life is like a dream, enjoy more intensely. The beautiful wine in the pot is the most important at the moment."
+Murmum_61008_12,"Life and death are fixed, wealth and honor are not mine. Enjoy yourself in time, don't waste your youth."
+Murmum_61008_13,"The mountains and rivers have feelings, the sky and the earth are old, how many times is life cool in autumn?"
+Murmum_61008_14,"The silkworm has spit out silk, honey has become honey. Only this leisure, how can there be one spring and autumn!"
+Murmum_61008_15,"Flowers bloom and fall, the moon rises and falls. It's hard to come again in this life. Enjoy yourself in time, drink the wine hard."
+Murmum_61008_16,"The rolling Yangtze River flows eastward, the waves washed away the heroes. Life is like sending on leaves, death is like flowing in the wind. Enjoy yourself in time, drink the beautiful wine in the pot."
+Murmum_61009_1,"Get out, beggar!"
+Murmum_61009_2,Go further! Nothing but a waste begging for food!
+Murmum_61009_3,Get out! Lazy bones waiting for alms!
+Murmum_61009_4,Go go go! Don't get in the way!
+Murmum_61009_5,Really annoying! Go away!!
+Murmum_61010_1,"Go go go, go beg for food elsewhere!"
+Murmum_61010_2,"Annoying or not, don't get in the way here!"
+Murmum_61010_3,"No face at all, disappear quickly!"
+Murmum_61010_4,I really can't feel pity for you.
+Murmum_61010_5,"Why are you like a fly, stay away from me!"
+Murmum_61011_1,"Sorry, I have nothing to give you either."
+Murmum_61011_2,"At the moment, I have no money. I'm really sorry!"
+Murmum_61011_3,"I don't have a penny either, otherwise I will definitely give some help!"
+Murmum_61011_4,"I really can't help, go ask someone else."
+Murmum_61011_5,"Go ask someone else, I have no money left."
+Murmum_61012_1,See the headmaster!!!
+Murmum_61012_2,"Headmaster, blessings!"
+Murmum_61012_3,Pay homage to Master!
+Murmum_61012_4,Disciple pays homage to the elder!
+Murmum_61012_5,"Headmaster, peace!!"
+Murmum_61013_1,See the leader of Wulin!!!
+Murmum_61013_2,Long live the leader!
+Murmum_61013_3,The leader is heroic and handsome!
+Murmum_61013_4,"The hero of the world, the leader is number one!"
+Murmum_61013_5,The leader is powerful!
+Murmum_61013_6,Meet the senior of Wulin!
+Murmum_61013_7,The younger generation of Wulin meets the elders!
+Murmum_61013_8,The leader is blessed and safe!
+Murmum_61013_9,I am fortunate to meet my elders!
+Murmum_61013_10,"Long live the leader, long live, long live!!"
+Murmum_61013_11,"The senior of Wulin, the leader is the number one in the world!"
+Murmum_61013_12,"The chief of Shenlonghui, the leader stands alone in the world!"
+Murmum_61013_13,"Meet the unparalleled in the world, the leader of Wulin!"
+Murmum_61013_14,"Meet the living Shenlong, the leader of Wulin!"
+Murmum_61014_1,You have violated the rules. I am ordered to execute. Surrender quickly!!!
+Murmum_61014_2,Those who violate the rules will be punished!
+Murmum_61014_3,Those who violate the master's law will be sanctioned by the rules!
+Murmum_61014_4,"You have violated the rules, unforgivable!"
+Murmum_61014_5,"Quickly surrender, you violated the rules and cannot escape!"
+Murmum_61015_1,"There is a cause, there is an effect. Someone came to teach you a lesson!"
+Murmum_61015_2,"I took someone's task to discipline you, you scum!"
+Murmum_61015_3,I was entrusted by others to give you a little color to see!
+Murmum_61015_4,"I was ordered by others to teach you, a scum who doesn't understand the rules, a lesson!"
+Murmum_61015_5,I was entrusted by others to teach you a lesson. Don't make trouble again in the future!
+Murmum_61016_1,"Little thief! Dare to ambush me?! Today's affairs, you must pay the price!"
+Murmum_61016_2,"You despicable villain, I will fight with you!"
+Murmum_61016_3,"You dead scoundrel, I will take your dog's life!"
+Murmum_61016_4,"You coward, how dare you ambush me, I have to kill you!"
+Murmum_61016_5,"Dare to ambush me, you're tired of living!"
+Murmum_61017_1,"Thief don't go, sneakily, asking for a beating!"
+Murmum_61017_2,"Dead thief, dare to sneak in front of me, I will ruin you!"
+Murmum_61017_3,You thieves deserve to die without burial!
+Murmum_61017_4,"Dare to steal in front of me, you are simply looking for death!"
+Murmum_61017_5,"I have been eyeing you thief, today I will take your dog's life!"
+Murmum_61018_1,"You beast, how dare you slaughter innocent people like this, you are worse than a beast!"
+Murmum_61018_2,"You slaughter good people so badly, you are worse than a beast!"
+Murmum_61018_3,"You demon, I will make you pay for these innocent lives!"
+Murmum_61018_4,"Such indiscriminate killing of good people, do you still have humanity! You have become a demon!"
+Murmum_61018_5,"You demon, such indiscriminate killing is really outrageous!"
+Murmum_61019_1,"You have done a lot of evil, I will behead you today!"
+Murmum_61019_2,Your actions are really unbearable!
+Murmum_61019_3,"You scum, how dare you do such an outrageous thing, you deserve to die!"
+Murmum_61019_4,"You scum, your actions are really outrageous!"
+Murmum_61019_5,"You are really a disaster, doing such harmful things is unforgivable!"
+Murmum_61020_1,"You rat, upset me and I saw you displeased! See if I don't beat you down!"
+Murmum_61020_2,"It's you again, scum!"
+Murmum_61020_3,Seeing your disgusting face again!
+Murmum_61020_4,You annoying guy is annoying just to look at!
+Murmum_61020_5,People like you are just disgusting!
+Murmum_61021,"Donâ€™t make a scene! Hand over your belongings, and your life shall be spared! !"
+Murmum_61022_1,"You scum, how dare you touch me, looking for death!"
+Murmum_61022_2,"You lunatic, how dare you provoke me, you are overestimating yourself!"
+Murmum_61022_3,"You fool, dare to actively provoke me, you are tired of living"
+Murmum_61022_4,"You dare to provoke me, you overestimate yourself too much!"
+Murmum_61022_5,"You three-legged cat, dare to provoke me, are you tired of living?"
+Murmum_61023_1,This hatred is irreconcilable. You and I are incompatible. Today I will send you to the West Heaven!
+Murmum_61023_2,"The blood feud between us, I will recover it today!"
+Murmum_61023_3,The grievances between us should end today!
+Murmum_61023_4,"You and I have a deep feud, today I want your dog's life!"
+Murmum_61023_5,You and I will never die!
+Murmum_61024,Hum? ...I canâ€™t find {0} nearby...
+Murmum_61025_1,"Ah, I really want to go to {0}, but the money on hand seems not enough..."
+Murmum_61025_2,"I want to experience {0}, but I don't have so much leisure money. It's a bit embarrassing."
+Murmum_61025_3,"I heard {0} is very good, but I'm a little tight on hand and reluctant."
+Murmum_61025_4,"I really want to go to {0}, but unfortunately I don't have enough money."
+Murmum_61025_5,Is there any kind soul to take me to {0}...
+Murmum_61026,"Get out, I don't allow you to enter!!!"
+Murmum_61027,Come in! What's the matter?
+Murmum_61028,"It's night, I'm going to bed!"
+Murmum_61029,"[#1you], Looks like you are busy right now, I'll come back to you later."
+Murmum_61030,I can only leave you here.
+Murmum_61031,Dammï¼Run First!!!
+Murmum_61032,"I don't want to go anymore, that's it!!!"
+Murmum_61033,Chi Chi Chi Chi Chi Chi Chi Chi Chi!!! (monkey calls).
+Murmum_61034,(There appears to be no one in the room...)
+Murmum_61035,Take the head!!
+Murmum_61036_1,"Where did the wild dogs come from, dirty my place!"
+Murmum_61036_2,"Take a pee and take a picture of yourself, whatever your identity, come here and hang out!"
+Murmum_61036_3,"If you don't see where this is, you can come here?"
+Murmum_70001_1,"Thank you for participating in the Kungfu Contest,my friends! In this world,we worship the power of martial arts. Only the invincible one can be the revered Champion."
+Murmum_70002_1,When will it begin?
+Murmum_70003_1,Agree!
+Murmum_70003_2,Letâ€™s get started. I canâ€™t wait any more!
+Murmum_70003_3,Iâ€™m gonna be the one and only Champion!!
+Murmum_70003_4,"Together,we dominate the martial arts world!"
+Murmum_70003_5,Duel!!
+Murmum_70004_1,Nice punch!
+Murmum_70004_2,Impressive!
+Murmum_70004_3,Niiiccce!
+Murmum_70004_4,Thereâ€™s nothing special with their kungfu.
+Murmum_70004_5,That move is so quick!
+Murmum_70005_1,When will next fight begin? Hurry up!
+Murmum_70006_1,Whoâ€™s the next!
+Murmum_70007_1,I shouldnâ€™t underrate you!
+Murmum_70007_2,Iâ€™m no match for you. Youâ€™ve earned my respect.
+Murmum_70007_3,Dirty tricks! Iâ€™ll let you pay! !
+Murmum_70007_4,Your kungfu is truly remarkable. I lost.
+Murmum_70008_1,Pleased to meet you!
+Murmum_70008_2,"Pleased to meet you,too!"
+Murmum_70008_3,Give up before itâ€™s not too late!
+Murmum_70008_4,Youâ€™re no match for me!
+Murmum_70008_5,Iâ€™ll show no mercy!
+Murmum_70009_1,Current turn:{0} vs {1}
+Murmum_70010_1,Itâ€™s my turn.
+Murmum_70011_1,The Champion of this Kungfu Contest is:
+Murmum_70012_1,Congrats!
+Murmum_70012_2,"With your invincible martial arts,youâ€™ve earned our respect! !"
+Murmum_70012_3,Long live the Champion!!
+Murmum_70012_4,The one above all!!
+Murmum_70013_1,It will take <GuideRed>{0}</> days before the opening of the martial arts tournament!
+Murmum_80000,[Thinking of the relations between you two...]
+Murmum_80001,[Thinking of the attitude toward you...]
+Murmum_80002,"{0}, can't learn ã€Œ{1}ã€"
+Murmum_90000,"Since everyone is here,letâ€™s hold a meeting. "
+Murmum_90001_0,"Good day,master!"
+Murmum_90001_1,Greetings master!
+Murmum_90002_0,Good! No one broke the rules!
+Murmum_90002_1,Iâ€™m glad to see you behave well!
+Murmum_90003_0,"Thank you for your teachings,Master!"
+Murmum_90003_1,"We obey whatever you ask,Master!"
+Murmum_90004_0,Let them be punished according to the rules!
+Murmum_90004_1,You disappointed me! All shall be punished harshly!
+Murmum_90005,Time to get your salary!
+Murmum_90006,"{0} made the most contribution this month. Keep going,everyone!"
+Murmum_90007,"Thank you for your instruction,Master! Iâ€™m flattered!"
+Murmum_90008,"Thank you,Master!"
+Murmum_90009,*Sigh*... Thank you... Master...
+Murmum_90010,It would be a tough month...
+Murmum_90011,Hope everyone can work harder to bring greatness to our sect!
+Murmum_90012_0,"Yes,Master! We will!"
+Murmum_90012_1,"We obey whatever you ask,Master!"
+Murmum_90100,[Unable to challenge. Higher level required]:Youâ€™re not qualified to challenge me
+Murmum_90101,"Iâ€™m no match for you,I admit!"
+Murmum_90102,Is that all you can do?
+Murmum_100000,"It's beyond my expectations, I give up."
+Murmum_100001,How unlucky! Didn't bring enough silver!
+Murmum_100002,I bid {0} for this item. I must get it!
+Murmum_100003,"I will add some more, bid {0}."
+Murmum_100004,I'm not interested in this item.
+Murmum_100005,"[#1 you], Since you like it so much, I have to reluctantly give up."
+Murmum_100006,"I'm really sorry, this item is too important to me."
+Murmum_100007,I'm sorry!!
+Murmum_100008,I feel like giving up this item.
+Murmum_100009,How bold of you to threaten me!!
