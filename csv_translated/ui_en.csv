@@ -1,5 +1,4 @@
-key,Source,Translated
-﻿Common_Item,Items
+﻿﻿Common_Item,Items
 Common_Skill,Skills
 Common_NeiGong,Inner Kungfu,กำลังภายใน
 Common_Equip,Gear
@@ -192,8 +191,8 @@ Common_Paper_Item,Craft Formula
 Common_Paper_Equip,Weave Formula
 Common_Paper_Weapon,Forge Formula
 Common_Paper_Cook,Cooking Formula
-call_desc_gender_0,Young Hero,จอมยุทธ์น้อย
-call_desc_gender_1,Heroine
+call_desc_gender_0,Young Hero,พ่อหนุ่ม
+call_desc_gender_1,Heroine,แม่นาง
 call_desc_1,you
 call_desc_good_2_1,Daddy
 call_desc_good_2_2,Grandpa
