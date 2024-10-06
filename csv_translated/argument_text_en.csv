@@ -1,4 +1,5 @@
-﻿﻿c854dd202f2e2a7b0ea0564c73276680,"For every {0} adjacent {1} Verbal Duels, gain {2} Eloquence"
+key,Source,Translated
+﻿c854dd202f2e2a7b0ea0564c73276680,"For every {0} adjacent {1} Verbal Duels, gain {2} Eloquence"
 c94ac3942de09c937c812dec2faea062,"{0}% chance to remove adjacent {1}. For each one removed, gain {2} Eloquence."
 6aac64544150f50d72647badb9a6e0ab,"For every {0} adjacent {1}, gain {2} Eloquence"
 dc3abcbb594f26cc51408c2fdb90199e,"If the adjacent {0} is a {1} Verbal Duel, gain {2} Eloquence"
