@@ -1,0 +1,48 @@
+key,original_en,translation,context
+c854dd202f2e2a7b0ea0564c73276680,"For every {0} adjacent {1} Verbal Duels, gain {2} Eloquence",,每有 {0} 个相邻的{1}嘴炮，额外增加 {2} 口水
+c94ac3942de09c937c812dec2faea062,"{0}% chance to remove adjacent {1}. For each one removed, gain {2} Eloquence.",,有 {0}% 几率消除相邻的 {1}，每消除 1 个，额外增加 {2} 口水
+6aac64544150f50d72647badb9a6e0ab,"For every {0} adjacent {1}, gain {2} Eloquence",,每有 {0} 个相邻的 {1}，则额外增加 {2} 口水
+dc3abcbb594f26cc51408c2fdb90199e,"If the adjacent {0} is a {1} Verbal Duel, gain {2} Eloquence",,相邻{0}为{1}嘴炮时，额外增加 {2} 口水
+f042ae4678bbcc38601c4a942fe97c9e,"When the position is {0}, increase the basic saliva of {1} to the basic saliva of the adjacent mouth cannon {2}",,位置在{0}时，使 {1} 个相邻嘴炮的基础口水增加 {2}
+a0cd1766a0b7cd3e473469e1f2573fc5,"For every {0} in the same row, gain {1} Eloquence",,同排嘴炮，每有 1 个{0}，额外增加 {1} 口水
+02acd56185c212a12ea94a7a3c6ded4c,Remove {0} adjacent {1} and gain {2} removed Verbal Duels of the same kind,,消除相邻 {0} 个{1}，增加 {2} 个被消除的相同嘴炮
+a77343eff0454788430d27cab5303187,"When the other mouth cannons are {0}, an additional increase {1} is doubled.",,其他嘴炮均为{0}时，额外增加 {1} 倍自身口水
+0f5238a410969ebf34e8435195236e24,"There is {0}% chance to eliminate itself, and increase the opportunity to re -select the time",,有 {0}% 几率消除自身，增加 {1} 次重新选择机会
+b39cacb8593cc262b8e65a12a81d7a43,"For every adjacent {0} Verbal Duel, gain {1} Eloquence",,每有 1 个相邻的{0}嘴炮，额外增加 {1} 口水
+bdf000b8ff49c7df55a693985c0bd0f1,There is {0}% chance to generate {1} {2},,有 {0}% 几率生成 {1} 个{2}
+87649ec432dd10bbe65679e99fa9f257,{0}% chance to turn into {1},,有 {0}% 几率，变成 {1}
+70d39f6a006bcb5eca286df9e8c4711e,"When removed, gain {0} Eloquence",,自身被消除后，额外增加 {0} 口水
+4ecf322b7638c46f0b54d1bba4d8a437,Grant {1} Base Eloquence to adjacent {0},,使相邻的 {0} 增加 {1} 基础口水
+891c1a20f6af58f1cd80f321a9588cc9,"When the other mouth cannons are {0}, copy {1} itself (with at most {2})",,其他嘴炮均为{0}时，复制 {1} 个自身（最多拥有 {2} 个）
+235286a0ffa65725645c5a17cb165f28,Remove itself and grant {0} Base Eloquence to adjacent Verbal Duels,,消除自身，增加相邻嘴炮 {0} 基础口水
+0123a061b3a47bab4ba03948a2622236,"Eliminate the adjacent {0}, every one eliminates one, add {1} to double the saliva",,消除相邻的 {0}，每消除 1 个，额外增加 {1} 倍自身口水
+f5e453131ef9183873ab949dbc5d8465,"Every time there is {0} an adjacent invalid fruit cannon, add {1} saliva",,每有 {0} 个相邻的无效果嘴炮，额外增加 {1} 口水
+edc3f828d2f52b5d45b76ff113603ee5,"When in the {0}, gain {1} Eloquence",,位置在{0}时，额外增加 {1} 口水
+cfba4fe764c142d6d6ff8155729fad9f,Turn {0} adjacent {1} into random Verbal Duels,,使相邻 {0} 个{1}，变成随机嘴炮
+dd47f4a09ebbd97e90f1ea3c338f6add,"For every {0} in the same column, gain {1} Eloquence",,同列嘴炮，每有 1 个{0}，额外增加 {1} 口水
+a1473fa6631b1b9bdf51bd26aafc618e,"When in the {0}, gain {1}x own Eloquence",,位置在{0}时，额外增加 {1} 倍自身口水
+c966c96f2a57913d7748bb0af1f1c3e1,"Remove adjacent {0} Verbal Duels. For each one removed, gain {1} own Base Eloquence.",,消除相邻的{0}嘴炮，每消除 1 个，增加自身 {1} 基础口水
+8736f6116f8c25003f904883235e382b,"For every {0} adjacent {1}, gain {2}x own Eloquence",,每有 {0} 个相邻的 {1}，则额外增加 {2} 倍自身口水
+0d1e80b50abcb2b6962218a5ce64c9d5,"Each round of storage {0} saliva, when it is eliminated, add additional saliva stored with {1} double storage",,每轮存储 {0} 口水，被消除时，额外增加 {1} 倍存储的口水
+45619b840c45d173924b354bdde77cc5,Extra the number of mouthfuls of mouth cannon fences,,额外增加嘴炮栏数量的口水
+3a612f34999527bb9fda44219498931f,There is {0}% probability to eliminate adjacent {1}. Each of the initial mouth of each round of mouth is permanently increased {2},,有 {0}% 几率消除相邻的 {1}，每消除 1 个，每轮嘴炮初始口水永久增加 {2}
+c521be966a23bf4bd714fd33de2b2f04,"There is {0}%, the chance of eliminating itself, increase the opportunity to delete the mouth cannon",,有 {0}% 几率消除自身，增加 {1} 次删除嘴炮机会
+d9752d85af936170da88476c8e9420a3,Remove {0} {1} on the field and gain {2} {3},,消除场上 {0} 个{1}，增加 {2} 个{3}
+da03efa35187b6bcfcec0d93ecbeb51a,"Eliminate the adjacent {0} {1}, every one eliminating one, the initial saliva of each round of mouth will permanently increase {2}",,消除相邻 {0} 个{1}，每消除 1 个，每轮嘴炮初始口水永久增加 {2}
+c13fb049caa5db4e1f1ce068df97e23d,"Remove adjacent Verbal Duels with no effects. For each Verbal Duel removed, gain {0} Eloquence.",,消除相邻的无效果嘴炮，每消除 1 个，额外增加 {0} 口水
+45a374e9fc2bb3884e08e87230bbb79f,"Remove {0} adjacent {1}. For each one removed, gain {2} own Base Eloquence.",,消除相邻 {0} 个{1}，每消除 1 个增加 {2} 自身基础口水
+4c1a290affb1ccd7fabe2665e38f4221,"When all adjacent Verbal Duels are different, gain {0} Eloquence",,相邻嘴炮均不相同时，额外增加 {0} 口水
+926568e5c7eaeaf4a32094b679aba697,"Remove adjacent {0} Verbal Duels. For each Verbal Duel removed, gain {1}x removed Eloquence.",,消除相邻的{0}嘴炮，每消除 1 个，额外增加 {1} 倍被消除的口水
+761abe285ee8998504189d6053f00346,Remove {0} random Positive Reputations from the opponent and give them {1} random Negative Reputations,,随机清除对方 {0} 个正面名声，随机为对方添加 {1} 个负面名声
+7acbce701959797ffaaecd7a49150aee,"When the other mouth cannons are {0}, eliminate themselves, and other mouth guns have the basics of saliva {1}",,其他嘴炮均为{0}时，消除自身，其他嘴炮基础口水增加 {1}
+5bb9557320342d3528502e0acf1db8bf,"When removed, grant {0} chances for Verbal Duel removal",,自身被消除时，增加 {0} 次删除嘴炮机会
+9c44132ca6dc4dc2721692a50643e8dd,Make other characters in the martial arts generate {0} {1},,使其门派中其他角色对其产生 {0} {1}
+b1e0916fc9677f36ce50cd271cc68e78,Inflict {0} stacks of {1} on opponent,,给对方施加 {0} 层 {1} 状态
+f3f0fd3b92db063e3c46477260389eec,Remove {0} random adjacent Verbal Duels with Eloquence equal to multiples of {1} and add to own Base Eloquence,,随机消除 {0} 个相邻基础口水为 {1} 倍数的嘴炮，并增加到自身基础口水上
+63cedf695a872eb7cee27ceda6081b43,Let them develop {0} {1} toward you,,使其对你产生 {0} {1}
+bd231448656011acce3154f92c6572b8,Add the largest saliva with the largest value in adjacent mouth guns,,额外增加相邻嘴炮中数值最大的口水
+7c2b07d58dbe04696246bc0c25fdf17f,Remove {0} random Negative Reputations from the opponent and give them {1} random Positive Reputations,,随机清除对方 {0} 个负面名声，随机为对方添加 {1} 个正面名声
+03b64febf2636e8e48be5e5c4d5eb1e0,"{0}% chance to remove adjacent {1}. For each one removed, gain {2}x removed Eloquence.",,有 {0}% 几率消除相邻的 {1}，每消除 1 个，额外增加 {2} 倍被消除的口水
+435eba8357c20b3e19214cf40d19366b,"When there are no adjacent Verbal Duels, gain {0}x own Eloquence",,相邻没有嘴炮时，额外增加 {0} 倍自身口水
+0e8d89655cd9473567c0a49cd26bb65b,"Eliminate all other mouth guns on the field, and increase the saliva that is eliminated by the mouth cannon",,消除场上所有其他嘴炮，额外增加被消除嘴炮的口水
+9bf5610e444eb970ff2a61ab482859c6,Clear the opponent's Reputation and give them {0} Reputation,,清空对方名声，并赋予对方{0}名声

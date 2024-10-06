@@ -1,0 +1,35 @@
+name: ParaToGit
+
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  paracmd:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Run build script
+      id: check_error
+      run: |
+        curl -O -J -L --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" https://paratranz.cn/api/projects/8169/artifacts/download
+    - name: Extrack
+      run: |
+        unzip -q -o download -d csv_translated
+        mv csv_translated/utf8/* csv_translated/
+        rm -r csv_translated/utf8
+    - name: List Extracted Files
+      run: |
+        ls csv_translated        
+    - name: Set up Git user
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'         
+    - name: Push changes
+      run: |
+        git add csv_translated/*
+        commitMessage=$(date +'%m-%d')' ParaToGitWork'
+        git commit -m "$commitMessage"
+        git push https://github-actions[bot]:${{ secrets.GH_TOKEN }}@github.com/1ookilo/HMS-TH   

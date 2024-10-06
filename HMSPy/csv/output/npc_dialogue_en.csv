@@ -1,0 +1,289 @@
+key,original_en,translation,context
+Murmum_10000_1,<MsgSectStyle>[I’ve acquired it. No need to review...]</>,,<MsgSectStyle>「我已经会了，不用再看了……」</>
+Murmum_10000_2,<MsgSectStyle>[I’ve mastered it. No need to review...]</>,,<MsgSectStyle>「已烂熟于心，不用再看了……」</>
+Murmum_10000_3,<MsgSectStyle>[Hey! I told you I don’t need to review !]</>,,<MsgSectStyle>「都跟你说了，不用再看了，你还点？!」</>
+Murmum_10000_4,<MsgSectStyle>[I’ve acquired it. No need to review...]</>,,<MsgSectStyle>「已经学会了啦，不用看了……」</>
+Murmum_10000_5,<MsgSectStyle>[I’ve learned this skill! ]</>,,<MsgSectStyle>「我已会使这门绝学了！」</>
+Murmum_10007_1,[Nothing found...],,「没挖到什么东西……」
+Murmum_10008_1,What’s this place? Anybody here? Hello? Hi? Oi —,,这是哪里！有人吗？喂~喂~~喂~~~
+Murmum_10009_1,Let’s spar once we’ve restored our Vigor.,,我们把气血回满再来切磋。
+Murmum_10010_1,The opponent is considering how to deal with you...thinking of the relations between you two and their attitude toward you...weighing the risks...,,对方正在考虑如何处置你...考虑与你的关系和态度...正在考虑风险...。
+Murmum_40000_1,Forbidden area! No entry for strangers!,,门派禁地，生人不得擅闯！
+Murmum_50000_1,What are you looking at? Get out!,,看什么看？滚！
+Murmum_50001_1,You wanna join our sect? Impossible!,,就你这厮也想入我门，痴心妄想！
+Murmum_50002_1,Meet the entry requirements and you can become one of us!,,想要入得鄙门，只需达成入门条件便可！
+Murmum_50003_1,"I’ve reported to the sect leader. The honorable one,you’ll receive the leader’s letter soon.",,在下已禀报掌门，阁下稍事片刻可收到掌门回信
+Murmum_50004_1,Hum? Get up!,,嗯？！给我起来！
+Murmum_50005_1,Who’s hiding there? Come out!,,躲躲藏藏，鬼鬼祟祟，给我出来！
+Murmum_50006_1,Hum? Who’s there! !,,嗯？！谁在那？！
+Murmum_50007_1,Nice gear!,,这装备真不错！
+Murmum_50008_1,This Skill is perfect for me!,,这门绝学似乎很适合我！
+Murmum_50009_1,"Warrior,thank you for saving me!",,多谢大侠救命之恩！
+Murmum_50013_1,Horses like eating grass. Monkeys like eating pinecones or plums. Martens and snakes like eating meat and eggs. Eagles like eating meat.,,马喜欢吃草，猴子喜欢吃松果或梅子，貂和蛇喜欢吃肉和蛋，鹰喜欢吃肉。
+Murmum_50014_1,Soon there will be a Kungfu Contest in areas with such a campaign. I can't wait any longer. Is there anything that a martial arts champion can't do? Hahahaha!,,只要有武林大会的区域过段时间就会召开了，好期待~~如果能当上武林盟主，那真的是可以为所欲为了，哈哈哈哈。
+Murmum_50015_1,"There’s a Bulletin Board at the Mountain Gate of every sect. You can take a look,see if you meet their Entry Requirements. But I’m not sure whether you’re worthy or not.",,各个门派的山门都有公告板，你可以去看看符不符合入门条件。不过人家不一定看得上你~~
+Murmum_50016_1,"You can use your Chi to heal minor injury. If the injury is too severe,you can go to clinic for healing. But Clinics often charge a high fee. ..",,小伤的话自己真气贯通就可以治疗了，如果伤势过于严重只能去医馆治疗了，不过他们收费都挺贵的。。。
+Murmum_50017_1,"Trade,complete commissions,or work at all kinds of stores. But doing illegal business always earns more. Ahaha,just like taking supplements will make you stronger!",,交易，帮人完成委托任务，或者去各大店铺打杂。不过怎么都没有干出格的事情来的快哈哈，马无夜草不肥嘛~~~
+Murmum_50018_1,"Hehe,no one is invincible in this world. You can improve your power by collecting more skills,Inner Kungfu,Abilities,and Gears. But remember,only the fitting combination means the true power.",,呵呵呵~这个世界没有真正的无敌~你可以通过收集绝学、内功、能力、装备来提升实力，不过只有将它们组合搭配好，才能真正强大。
+Murmum_50019_1,I heard that you can acquire advanced Qinggong at the Eagle Hunt Platform and Mirror Lake Stonewoods.,,我听说在逐鹰台和镜湖石林可以领悟高级轻功。
+Murmum_50020_1,Give everything you owe me now!,,把欠我的都交出来！
+Murmum_50021_1,"You’re not too stupid,huh? Now get out! Don’t mess with me! !",,算你识相，滚吧！以后小心点，别惹我！！
+Murmum_50022_1,That was your lesson today!,,今天先给你个教训！
+Murmum_50023_1,"Sorry,I didn’t mean to do this! Let’s forget this,shall we?",,我惹不起你！这件事就算了吧！
+Murmum_50024_1,I'm tired today. Come and see me tomorrow.,,我今天已经很疲惫了，明天再来请教吧
+Murmum_50025_1,I'm tired today. I need to digest what we just covered. Let's continue tomorrow.,,我今天累了，先把刚学会的融会贯通，明天再传授我吧
+Murmum_50026_1,"(...Hold still...Just bear with it for a little longer, we're almost there! ! ! )",,(……不要乱动……再坚持一会儿，天门就要开了！！！)
+Murmum_60000_1,"Not bad,I bet you can unify the martial arts world.",,不错不错，一统江湖就靠你了。
+Murmum_60001_1,"Haha,I just invented it. Didn’t expect there would be a side effect. I’ll find you when I fix this.",,哈哈，我也是刚研究出来的，没想到有点副作用，等我改良了再找你哈~~
+Murmum_60002_1,……,,……
+Murmum_60003_1,Humph! Don’t say I didn’t warn you!,,哼~不识好歹。
+Murmum_60004_1,"Good day,sir! May you live a long and healthy life!",,大官人~万寿无疆~~
+Murmum_60005_1,I’m too kind to see children poorer than me...,,我真是太善良了~~看不得比我可怜的孩子~~
+Murmum_60006_1,You made me cry! Time to say goodbye!,,你真的~~我哭了~~山高水长，江湖再见~~
+Murmum_60007_1,Thanks Bodhisattva!!,,菩萨显灵了！！！
+Murmum_60008_1,The cold wind is howling. The white snow is falling...,,寒风萧萧~~飞雪飘扬~~
+Murmum_60009_1,How did I meet a blind person...,,遇到了瞎子...可惜了~~
+Murmum_60010_1,Two healthy legs are way more important! Does my wisdom dwarf yours? Ahahaha!,,当然是要有双好腿啊！！我的睿智真是让你望尘莫及，哈哈哈哈哈
+Murmum_60011_1,"Even the most powerful one can be hurt by gossips and backstabbing,right? ?",,武功再高也怕菜刀，你躲得过流言蜚语、暗箭伤人吗？？
+Murmum_60012_1,"A man of morality values righteousness,while the despicable eye silver and gold. The people who are merely profit-driven will eventually turn against you.",,君子喻于义，小人喻于利。你用财帛驱使的人，最终难免反噬。
+Murmum_60013_1,We’re two of the same kind! !,,果然是我辈中人！！
+Murmum_60014_1,"This is what we call love,ahaha!",,这才叫相濡以沫~哈哈哈
+Murmum_60015_1,"I made 38 couples get married! I did a quite good job,didn’t I?",,不错不错，今年撮合了 38 对姻缘。
+Murmum_60016_1,……,,……
+Murmum_60017_1,"Thank you for saving me! Here is a pill handed down from our ancestors. Please take it,warrior.",,救命之恩，涌泉相报！这是我祖传丹药，请大侠务必收下。
+Murmum_60018_1,My leg is broken! Give me 1000 coins! Or I’ll find the seniors and accuse you of bullying me! !!,,我的腿断了！！给我 1000 钱！！否则到宗门告你恃强凌弱！！！
+Murmum_60019_1,……,,……
+Murmum_60020_1,"Ah,the business isn’t going well these days...",,哎~~买卖越来越不好干了~~
+Murmum_60021_1,You’re seriously ill. I suggest you go to the Clinic at [Flora Valley] later on. Here is a [Marrow Refining Pill]. It can help you heal some of the ailments!,,阁下身患重疾，最好找「百花谷」的医馆治疗一番，我这有一颗「洗髓丹」给你，姑且可以帮你先治疗一些隐疾！
+Murmum_60022_1,"Oh,I thought you’re a freshman.",,哦，我还以为你是新来的。
+Murmum_60023_1,"Haha,you’re not stupid,huh? Bye.",,哈哈，算你识相~~后会有期。
+Murmum_60024_1,I must teach you a lesson! !,,看来得给你小子一点教训！！
+Murmum_60025_1,"Good! From this day on,we resolve to band together to face whatever lies ahead!",,好！今后你我有福同享，有难同当！
+Murmum_60026_1,Humph! Don’t say I didn’t warn you!,,哼！不识抬举。
+Murmum_60027_1,Nice!,,真好~
+Murmum_60028_1,Humph!,,哼！
+Murmum_60029_1,Put this on. You need to keep warm. You can’t catch a cold in this state.,,行了，快穿上吧，别落下隐疾了。
+Murmum_60030_1,You ask for this. Goodbye and never see you again.,,真是死要面子活受罪，再见吧。
+Murmum_60031_1,Build the residence to shelter yourself from the cold and restore Vigor in it!,,建好民居，你就有了一处容身之所了，可以抵御寒冷和恢复气血！
+Murmum_60032_1,"Having a hot spring bath,taking a sip of tea at the teahouse,or listening to melodies at the Music House will cheer you up!",,温泉泡个澡、茶馆喝口茶、乐楼听个小曲，都可以让你心情好起来！
+Murmum_60033_1,"Really? Many thanks! Ahaha,I promise I’ll share it with you when I master it. !!",,真的？！那在下先谢过了，哈哈哈，待我练成以后，必定与你分享！！！
+Murmum_60034_1,It’s said the skill in this manual is the most powerful one in this world. Don’t you want to have a look at it? !,,这本秘籍传闻天下无敌，你真的不想一探究竟么？！
+Murmum_60035_1,That stone lies on the Dragonhead in Longting. Find a way to get there on your own!,,该奇石位于龙亭龙头之上，至于怎么过去，你自己想办法吧！
+Murmum_60036_1,"Believe it or not,it’s up to you!",,不信拉倒！
+Murmum_60037_1,"Here,here,let me mark a location for you. Go look over there.",,来来来，我给你标记个位置，你过去找找。
+Murmum_60038_1,Is there anyone who isn’t interested in treasure chest? !,,居然有人对宝箱不感兴趣？！
+Murmum_60039_1,Interact with others and click [Skills] to view.,,与他人交互，点击「学艺」即可查看。
+Murmum_60040_1,Bye!,,告辞！
+Murmum_60041_1,I marked a location for you. Go have a look.,,给你标记了个地点，你过去看看吧。
+Murmum_60042_1,I bumped into a pervert?,,我这是碰到个变态？
+Murmum_61000_1,Your teachings on {0} are truly remarkable. I'm truly grateful. ,,阁下传授这{0}真了不得，在下受益匪浅，感激不尽! 
+Murmum_61000_2,Thank you for teaching me {0}. I'll make sure to repay your favor. ,,竟传我{0}，日后我必报答阁下恩德! 
+Murmum_61000_3,Thank you for showing me the ropes with {0}. Without you I'd still be lost.,,全仗阁下指点{0}，若不是阁下，我还在那里胡涂呢。
+Murmum_61000_4,{0}! I'll make every effort to practice this martial art. Thanks a million! ! !,,居然是{0}！在下定好生练习这门武艺，感激不尽！！！
+Murmum_61000_5,"Wow, it's {0}! That's a real treat. My thanks may never do it justice. ",,竟然是{0}！让在下大开眼界，真不知如何表达谢意才好! 
+Murmum_61001_1,Spend more time practicing the {0}. It might help you out of danger one day! ! !,,好生练习这门{0}，危急时，定能助你化险为夷！！！
+Murmum_61001_2,"The Skill is well and good, but true mastery comes only with diligent practice.",,绝学虽好，但需勤修，方见成效，切勿虚妄!
+Murmum_61001_3,"Your kungfu skills outshine many, but your willpower must not wane. Train with diligence, lest arrogance prevails.",,武艺虽胜，意志不能弱，务必勤加修炼，切莫骄纵!
+Murmum_61001_4,"The sole key to mastery lies in diligence. Practice hard, and you'll rise to greatness.",,绝技修得，唯一秘诀在勤奋，切记要勤学苦练，方有所成!
+Murmum_61001_5,"A prized technique cannot be mastered without diligence. Hone your gift with practice, and you'll be rewarded.",,绝技虽妙，非勤苦修习不能成，切记勤修方显成效!
+Murmum_61003_1,"Please wait, {0}! There's a favor I'd like to ask of you! ! !",,{0}，请留步！我有一事相求！！！
+Murmum_61003_2,"Wait, {0}! There's something you need to know!",,{0}，等一下！我有事相告！
+Murmum_61003_3,"Hold on, {0}. There's something I wish to discuss.",,{0}，留步，有要事相商！
+Murmum_61003_4,"Wait, {0}! Hear me out!",,{0}，莫走，听我说明来意！
+Murmum_61003_5,"Please wait, {0}. I have urgent news to share.",,{0}，劳请留步，有要紧事相告！
+Murmum_61004_1,"By heaven and earth, I love only you!",,天地为证，今生今世，我只爱你一个！
+Murmum_61004_2,"I need nothing else but you. Let us grow old together, till death do us part.  ",,情深不寿，有你便成。与你生死相许，白头到老!  
+Murmum_61004_3,"My love runs deep as the sea. I entrust myself to you, till our hairs turn grey.",,情深似海，与你生死相托，白首不渝!！
+Murmum_61004_4,"May the heaven and earth bear witness, I love you through life and death.",,天地可鉴，你我秉烛俱老，生死之交！
+Murmum_61004_5,"From this day forward, I pledge to stay by your side till the end of our lives.",,从今往后，我愿与你白头偕老，不离不弃！
+Murmum_61005,"C’mon,{0}! Follow me!",,{0}，来来来！快跟上我！
+Murmum_61006_1,Where are [#1you] taking me?,,[#1你]要带我去哪里？
+Murmum_61006_2,Where are [#1you] going?,,[#1你]究竟要去何处啊?
+Murmum_61006_3,Where exactly do [#1you] want to go? What's the matter?,,[#1你]到底要去哪？有何要紧之事？
+Murmum_61006_4,Where are [#1you] headed?,,[#1你]要走多远啊？
+Murmum_61006_5,? ? ?,,？？？
+Murmum_61007_1,Help! My house is burning to the ground!,,救火啊，家都要烧没了!!!
+Murmum_61007_2,Fire! Help!!!,,着火啦！快救火啊!!!
+Murmum_61007_3,Who set the fire?! Murderer!!,,放火的在哪?!要我们的命啊?!!!
+Murmum_61007_4,"Oh wow, what a bonfire. It'd be a disservice if we don't have some barbeque!",,这么热闹，不吃烧烤都对不起这场火灾了!!!
+Murmum_61007_5,"Seize the arsonist! Burn them to ashes, let them feel our wrath!",,抓住放火的，一定要把他烧成灰，让他知道马王爷有几只眼!!!
+Murmum_61008_1,Cheers! !!,,喝！！！
+Murmum_61008_2,Drink up!,,干了这杯！
+Murmum_61008_3,"Ah,that’s a good wine! !!",,好酒！！！
+Murmum_61008_4,Nothing lifts the spirits like a good ol' drink!,,一壶灌饮，烦恼皆消!
+Murmum_61008_5,"Life is short, let's make merry! Raise a glass, say bye to your worries!",,人生苦短，及时行乐!一壶清酒，一身轻松!
+Murmum_61008_6,Life is harsh. Only this flask offers some solace. ,,世态炎凉，唯有这一壶独饮，真真解却万般世俗烦恼! 
+Murmum_61008_7,"Life is fleeting, have fun when you can! Here's to my health!",,世事无常，及时行乐，这杯酒我自斟自饮!
+Murmum_61008_8,"Life is fleeting, time to have fun! ",,人生几何，及时行乐，莫失己乐! 
+Murmum_61008_9,Life doesn't always go as planned. Better find joy when you can than dwell on woes! ,,人生不如意事常有，及时行乐，当下体验，更好过度日烦恼忧愁! 
+Murmum_61008_10,"Life is but a dream, toil and labor won't endure. Seize the moment, with a glass of wine. Release the burdens of earthly confine.",,人生如梦，劳碌辛苦终难长久。及时行乐，一杯清酒，释放尘寰烦恼
+Murmum_61008_11,"Life is a dream, joy makes it sweet. A glass of fine wine, makes the moment shine.",,浮生若梦，为乐更浓。壶中美酒，当下最重。
+Murmum_61008_12,"Life and death are predestined, so are riches and fame. Embrace the joy of the moment, lest youth goes to waste.",,生死定数，富贵非我。及时享乐，不负韶华。
+Murmum_61008_13,"Alas, the many autumns that have gone by. How the world ages!",,山水有情天地老，人生几度秋风凉。
+Murmum_61008_14,What peace and happiness. What more can the seasons bring?,,蠶已吐丝，蜜已成蜜。只此安乐，怎一个春秋!
+Murmum_61008_15,"Flowers come and go, the moon waxes and wanes. This life won't repeat, so let's drink to the heart's content.",,花开花落，月上月下，此生难再，及时行乐，把酒痛饮。
+Murmum_61008_16,"The river flows, carrying memories of heroes. Life is a leaf adrift, caught in the draught of death. Here's to health, to joy in the moment. ",,滚滚长江东逝水，浪花淘尽英雄。生如叶上寄，死如风中流。及时行乐，把樽中美酒饮。 
+Murmum_61009_1,"Damned beggar, get out!",,臭要饭的，赶紧滚！
+Murmum_61009_2,Get lost! You worthless piece of trash!,,走远点！除了讨饭没本事的废物!
+Murmum_61009_3,Get out! Lazybones!,,滚！等着人施舍的懒骨头!
+Murmum_61009_4,Get lost! Don't get in the way!,,去去去！别碍眼！
+Murmum_61009_5,What a nuisance! Get lost! !,,真是烦人！滚远点！！
+Murmum_61010_1,Shoo! Move your ass somewhere else!,,去去去，到别地儿要饭去！
+Murmum_61010_2,What a bother! Move out of the way!,,烦不烦，别在这里碍眼!
+Murmum_61010_3,Have you no shame? Get lost!,,要不要脸，快给我消失!
+Murmum_61010_4,I don't have a shred of pity for you.,,对你我可生不出怜悯之心。
+Murmum_61010_5,You're annoying as a fly. Stay away from me!,,你怎么跟苍蝇似的，离我远点！
+Murmum_61011_1,"I'm sorry, I don't have anything to give you.",,抱歉，我也没东西给你呢
+Murmum_61011_2,"I'm sorry, but I don't have any money right now. ",,在下此刻没有钱财，实在抱歉! 
+Murmum_61011_3,"I would have spared you some change, but I'm afraid I'm also penniless.",,我也身无分文，否则定将施舍一点济助!
+Murmum_61011_4,I wish I could help. Perhaps you should ask someone else.,,我实在爱莫能助，你找找其他人吧。
+Murmum_61011_5,I don't have any money left. You can ask someone else.,,你再去问问其他人，我身上没钱了。
+Murmum_61012_1,"Good day, master! ! !",,参见掌门！！！
+Murmum_61012_2,"Greetings, Master!",,掌门大人万福！
+Murmum_61012_3,"Greetings, shifu!",,参拜师尊！
+Murmum_61012_4,"Greetings, Master!",,弟子参拜老祖宗！
+Murmum_61012_5,Greetings master! !,,掌门万安！！
+Murmum_61013_1,"Greetings, Champion! ! !",,参见武林盟主！！！
+Murmum_61013_2,Long live the Champion! ,,盟主万岁! 
+Murmum_61013_3,All hail the Champion! ,,盟主雄姿英发! 
+Murmum_61013_4,The Champion is the best! ,,天下英雄，盟主第一! 
+Murmum_61013_5,All hail the Champion!,,盟主威武!
+Murmum_61013_6,"Greetings, Master!",,拜见武林泰斗!
+Murmum_61013_7,"Greetings, Master!",,武林后辈参见前辈!
+Murmum_61013_8,"Greetings, Champion!",,盟主万福金安！
+Murmum_61013_9,"Greetings, Master! What an honor!",,在下有幸拜见前辈！
+Murmum_61013_10,Long live the Champion! ! !,,盟主万岁万岁万万岁！！
+Murmum_61013_11,The Champion is the best!,,武林泰斗，盟主乃天下第一!
+Murmum_61013_12,The one and only Champion!,,武林神龙会首，盟主当世独步天下!
+Murmum_61013_13,"Greetings, Champion!",,拜见天下无双，武林盟主!
+Murmum_61013_14,"Greetings, Champion!",,拜见当世神龙，武林盟主!
+Murmum_61014_1,"You've breached Sect Rules, and I'm here to arrest you. Surrender now! ! !",,你已触犯门规，在下奉命执行，速速就擒！！！
+Murmum_61014_2,Those who violate Sect Rules shall be punished! ,,触犯门规者，必受惩处! 
+Murmum_61014_3,Those who disregard Sect Rules shall be disciplined!   ,,违背师法者，定受门规制裁!   
+Murmum_61014_4,You've breached Sect Rules. There's no pardon! ,,你已违背门规，罪无可赦! 
+Murmum_61014_5,Surrender! You've breached Sect Rules. There's no escaping punishment!,,还不快束手就擒，你触犯门规在劫难逃！
+Murmum_61015_1,What goes around comes around. Someone has hired me to teach you a lesson!,,事有因，果有果，有人找我来教训你一顿！
+Murmum_61015_2,"I'm told to teach you a lesson, wretch!",,我接了人家的任务来管教你这个混账东西!
+Murmum_61015_3,I'm entrusted to teach you a lesson! ,,我受人所托，来给你一点颜色看看! 
+Murmum_61015_4,"I'm told to teach you a lesson, scoundrel!",,我奉人之命来教训你这个不懂规矩的败类!
+Murmum_61015_5,I'm told to teach you a lesson. Don't stir up trouble again!,,我受人之托给你一点教训，以后别再惹是生非了！
+Murmum_61016_1,Thief! You dare sneak up on me? I'm gonna let you pay!,,小贼！敢偷袭我？！今日之事，必让你付出代价！
+Murmum_61016_2,"You scumbag, I'm gonna take you down!",,你这个卑鄙小人，我跟你拼了!
+Murmum_61016_3,"You rotten scum, I'm gonna tear you apart! ",,你这个死无赖，我定要你的狗命! 
+Murmum_61016_4,Sneaking on me? You coward! I'm gonna rip you to bits!  ,,你这个懦夫，竟然搞偷袭，我非杀了你不可!  
+Murmum_61016_5,Sneaking on me? Your days are numbered!,,胆敢偷袭我，你活腻了!
+Murmum_61017_1,"Don't you dare run, thief! You're just asking for a beating!",,窃贼休走，鬼鬼祟祟，找打！
+Murmum_61017_2,"Filthy thief, sneaking before me? You're gonna pay!",,死贼，竟敢在我面前偷偷摸摸，我定要你倾家荡产!
+Murmum_61017_3,"To hell, wretched thief!",,你这种贼人，简直活该万劫不复!
+Murmum_61017_4,Stealing before me? You're asking for trouble!,,敢在我面前偷东西，你简直找死!
+Murmum_61017_5,"I've had my eyes on you for a while, thief. Prepare to meet your end! ",,我早就盯上你这个贼了，今天一定要了你的狗命! 
+Murmum_61018_1,You monster! How dare you slaughter the innocent! ,,你这个畜生，竟然这样残杀无辜，真是畜生不如! 
+Murmum_61018_2,You killed the innocent! You monster! ,,你这样下作地屠杀好人，简直禽兽不如! 
+Murmum_61018_3,"You'll pay dearly for those innocent lives, you fiend! ",,你这个魔头，我定要你为这些无辜的生命偿还! 
+Murmum_61018_4,Are you even human? You fiend!,,这样滥杀好人，你还有人性吗!你简直成魔了!
+Murmum_61018_5,What a heinous act of slaughter! You fiend!,,你这个恶魔，这样滥杀无辜的行径，真是令人发指!
+Murmum_61019_1,"I'm ending your atrocities, once and for all!",,你行恶多端，今日我便斩了你！
+Murmum_61019_2,I can't bear to witness your vile deeds!  ,,你这样的行径，实在是让人看不下去!  
+Murmum_61019_3,"How dare you commit such heinous deeds, you scoundrel? You deserve a most terrible death! ",,你这个混账东西，竟敢做出这么过分的事，真是罪该万死!
+Murmum_61019_4,What an appalling crime! You scum!,,你这个败类，这样的行径简直令人发指!
+Murmum_61019_5,"Your sins are unforgivable, you monster!",,你真是个祸害，做这种伤天害理的事，简直罪无可赦!
+Murmum_61020_1,You annoying scum! I've had enough. You're gonna get pummeled!,,你这鼠辈，惹我不快，早就看你不顺眼了！看我不揍趴你！
+Murmum_61020_2,"You again, scum!  ",,又是你这个败类!  
+Murmum_61020_3,"Oh, it's that detestable face again! ",,又见到你这张可恶的脸! 
+Murmum_61020_4,You nuisance! Just looking at you makes me puke!,,你这个讨人厌的家伙，简直让人看着就烦!
+Murmum_61020_5,You're disgusting! ,,你这样的人，简直令人作呕! 
+Murmum_61021,"Don't make a scene! Hand over your belongings, and your life shall be spared! !",,匪我思存，非礼勿言！留下财物，不伤你性命！！
+Murmum_61022_1,"Think you can lay a hand on me, wretch? You're asking for trouble! ",,你这个混账东西，竟敢动我的手，找死! 
+Murmum_61022_2,"You dare provoke me, thug! You don't know what you're up against!",,你这个狂徒，竟敢挑衅我，简直是自不量力!
+Murmum_61022_3,"You want to provoke me, you fool? You're digging your own grave!",,你这个蠢货，敢主动招惹我，真是活得不耐烦了
+Murmum_61022_4,You dare provoke me? You're too full of yourself!,,你也敢挑衅我，你也太高估自己了!
+Murmum_61022_5,"You dare provoke me, loser? You must have a death wish!",,你个三脚猫，也敢招惹我，你是活腻了吧!
+Murmum_61023_1,"This hatred is an incurable poison burning in my soul. Today, you shall feel my wrath!",,此恨不共戴天，你与我水火不容，今日我便要来送你上西天！
+Murmum_61023_2,"I'm determined to settle this blood debt today, once and for all!",,我们之间的这笔血债，我今天定要讨回来!
+Murmum_61023_3,Time to settle the score between us! ,,我们之间的恩怨，今天也该了了! 
+Murmum_61023_4,"I'm having your life, hateful wretch! !",,你我仇深似海，今天要你的狗命！！
+Murmum_61023_5,It's a fight to the death between you and me! ! !,,我与你不死不休！！！
+Murmum_61024,Hum? ...I can't find {0} nearby...,,嗯？……好像附近找不到{0}……
+Murmum_61025_1,"Ow, I really want to go to {0}, but I'm short of cash now...",,啊，好想去{0}，可是身上的钱好像不太够啊……
+Murmum_61025_2,"I'm interested in {0}, but I don't have that much money to spare. Sigh.",,想去{0}体验一下，可没那么多闲钱呀，有点为难。
+Murmum_61025_3,"I heard {0} is real good, but I'm on a tight budget.",,听说{0}很不错，就是手头有点紧，有点不舍得。
+Murmum_61025_4,"I really want to go to {0}, but I'm short on cash.",,好想去{0}，可惜囊中羞涩啊。
+Murmum_61025_5,I wonder if anyone would be kind enough to take me to {0}...,,有没有好心人带去{0}啊...
+Murmum_61026,Scat! You're not allowed to enter! ! !,,滚，我不允许你进入！！！
+Murmum_61027,Come in! What do you need?,,进来吧！有什么事？
+Murmum_61028,It's late. I'm going to bed!,,晚上了，我要睡觉了！
+Murmum_61029,Looks like [#1you] are occupied. I'll drop by later.,,看来[#1你]现在很忙，我过会儿再来找你。
+Murmum_61030,I can only drop you here.,,我只能把你放在这了。
+Murmum_61031,Bastard! Gotta stay alive! Run for it! !,,可恶的家伙！保命要紧！！逃！！
+Murmum_61032,I don't wanna go. So be it! ! !,,我不想去了，就这样吧！！！
+Murmum_61033,Chatter! Chatter chatter! ! ! (Monkey sounds),,叽叽！！叽叽叽！！！（猴叫）。
+Murmum_61034,(There's no one in the room...),,（房间内似乎没有人……）
+Murmum_61035,Take Head! !,,拿取首级！！
+Murmum_61036_1,"What's this filthy mutt doing here, messing up my place?",,哪来的野狗，脏了老子的地方！
+Murmum_61036_2,"Who do you think you are, dragging your ass around here?",,撒泡尿照照自己，什么身份，来这晃悠！
+Murmum_61036_3,You got the guts to think it's a place for you!,,不看看这是什么地方，也是你能来的?
+Murmum_70001_1,"Thank you for participating in the Kungfu Contest,my friends! In this world,we worship the power of martial arts. Only the invincible one can be the revered Champion.",,感谢各位江湖朋友参与本届武林大会，共襄盛举！！我们大荒以武论英雄，只有武力卓绝力压众人，才能成为人人敬仰的武林盟主。
+Murmum_70002_1,When will it begin?,,什么时候开始啊
+Murmum_70003_1,Agree!,,说得好!！！！！
+Murmum_70003_2,Let’s get started. I can’t wait any more!,,快开始吧，我已经等不及了。
+Murmum_70003_3,I’m gonna be the one and only Champion!!,,我要做武林盟主！！！！！！！！！
+Murmum_70003_4,"Together,we dominate the martial arts world!",,千秋霸业一统江湖
+Murmum_70003_5,Duel!!,,一决高下！！！！！！！！！
+Murmum_70004_1,Nice punch!,,打得好
+Murmum_70004_2,Impressive!,,真是精彩
+Murmum_70004_3,Niiiccce!,,好!!!
+Murmum_70004_4,There’s nothing special with their kungfu.,,我看他们的武功都稀松平常
+Murmum_70004_5,That move is so quick!,,好快的招!
+Murmum_70005_1,When will next fight begin? Hurry up!,,赶紧下一场
+Murmum_70006_1,Who's the next! ! ! !,,还有谁？！！！
+Murmum_70007_1,I shouldn’t underrate you!,,我真是小看了你!
+Murmum_70007_2,I’m no match for you. You’ve earned my respect.,,佩服~佩服，我不是你的对手。
+Murmum_70007_3,Dirty tricks! I’ll let you pay! !,,你好卑鄙，我一定会加倍奉还！！
+Murmum_70007_4,Your kungfu is truly remarkable. I lost.,,阁下武功高绝，在下输了
+Murmum_70008_1,Pleased to meet you!,,请！
+Murmum_70008_2,"Pleased to meet you,too!",,幸会！
+Murmum_70008_3,Give up before it’s not too late!,,你认输吧!免得失手伤了你
+Murmum_70008_4,You’re no match for me!,,你不是我的对手!
+Murmum_70008_5,I’ll show no mercy!,,我不会手下留情！
+Murmum_70009_1,The matchup for this round is {0} vs. {1}. ,,本轮的对阵双方是 {0} 对 {1} 
+Murmum_70010_1,It’s my turn.,,轮到我了
+Murmum_70011_1,The Champion of this Kungfu Contest is:,,本届武林盟主是:
+Murmum_70012_1,Congrats!,,恭贺盟主！
+Murmum_70012_2,"With your invincible martial arts,you’ve earned our respect! !",,盟主武功绝世，我等心悦诚服！！
+Murmum_70012_3,Long live the Champion!!,,盟主万岁万岁!!
+Murmum_70012_4,The one above all!!,,盟主天下第一!!!
+Murmum_70013_1,<GuideRed>{0}</> days till the Kungfu Contest.,,距离武林大会开启还需要<GuideRed>{0}</>天！
+Murmum_80000,[Thinking of the relations between you two...],,「正在考虑与你的关系……」
+Murmum_80001,[Thinking of the attitude toward you...],,「正在考虑对你的态度……」
+Murmum_80002,"{0}, unable to learn 「{1}」",,{0}，学不了「{1}」
+Murmum_90000,"Since everyone is here,let’s hold a meeting. ",,“大家都到了啊，现在开会议会。”
+Murmum_90001_0,"Good day,master!",,参见掌门！
+Murmum_90001_1,Greetings master!,,掌门万安！
+Murmum_90002_0,Good! No one broke the rules!,,很好，没有违规弟子！
+Murmum_90002_1,I’m glad to see you behave well!,,你们都很自守，我很欣慰！
+Murmum_90003_0,"Thank you for your teachings,Master!",,全赖掌门英明领导!
+Murmum_90003_1,"We obey whatever you ask,Master!",,我等谨遵掌门法旨！
+Murmum_90004_0,Let them be punished according to the rules!,,这些人依法惩处！
+Murmum_90004_1,You disappointed me! All shall be punished harshly!,,太让我失望了！全部严惩！
+Murmum_90005,Time to get your salary!,,接下来发放月例！
+Murmum_90006,"{0} made the most contribution this month. Keep going,everyone!",,本月{0}贡献最高，其他人继续加油啊！
+Murmum_90007,"Thank you for your instruction,Master! I’m flattered!",,拜谢掌门提携！在下惶恐！
+Murmum_90008,"Thank you,Master!",,多谢掌门！
+Murmum_90009,*Sigh*... Thank you... Master...,,哎...谢掌门。
+Murmum_90010,It would be a tough month...,,这个月日子不好过了...
+Murmum_90011,Hope everyone can work harder to bring greatness to our sect!,,希望大家继续努力，将门派发扬光大！
+Murmum_90012_0,"Yes,Master! We will!",,是！谨遵法旨！
+Murmum_90012_1,"We obey whatever you ask,Master!",,我等谨遵掌门法旨！
+Murmum_90100,[Unable to challenge. Higher level required]:You’re not qualified to challenge me,,「无法越级挑战」：你还不够向我发起挑战
+Murmum_90101,"I’m no match for you,I admit!",,在下甘拜下风！
+Murmum_90102,Is that all you can do?,,就这？
+Murmum_100000,That's more than what I have in mind. I'll quit.,,已经超出我的预期了，我放弃。
+Murmum_100001,Tough luck! Didn't bring enough cash! !,,真是倒霉！没带够银两！！
+Murmum_100002,I'm bidding {0}. I've got to have this! !,,我出 {0} ，此物我势在必得！！
+Murmum_100003,I'll up the ante. I'm bidding {0}.,,我再加一些，出价 {0}。
+Murmum_100004,I'm not interested.,,我对此物不感兴趣
+Murmum_100005,"Since [#1you] want it that bad, I'll have to part with it.",,既然[#1你]这么喜欢，我只好忍痛割爱了。
+Murmum_100006,I'm sorry. It's too dear to me.,,实在是抱歉，此物对我太过重要。
+Murmum_100007,I'm afraid I can't honor your request! !,,在下恕难从命！！
+Murmum_100008,I'd give up,,我觉得放弃此物
+Murmum_100009,"Who do you think you are, throwing threats at me? !",,你有几斤几两，竞敢威胁我！！
